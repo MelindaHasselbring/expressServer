@@ -29,7 +29,7 @@ Achieve your coding mastery with MVC, join and compete with other developers to 
 	1. Comments - color coded display for compilation error.
 	1. Results - color coded display for successfully answering the problem and number of minutes the user had taken
 1. Top MVC - displays the user rank per problem.
-1. Database - utilizes Sequelize - a promise-based ORM for Node.js.
+
 
 
 ##  User Flow:
