@@ -6,7 +6,7 @@ Achieve your coding mastery with MVC, join and compete with other developers to 
 
 ##  Features:
 
-1. Header -MVC - Most Valuable Coder
+1. **Header** -MVC - Most Valuable Coder
 
 1. Challenge
 	1. Problem Selector - a graphical control element that allow users to choose 1 problem at a time among the array of problems
