@@ -37,15 +37,15 @@ Achieve your coding mastery with MVC, join and compete with other developers to 
 
 
 
-1. _Code Verification_ - JavaScript interpreter
-		* NPM package “eval” (https://www.npmjs.com/package/eval) 
-		* Parse string and export the function
-		* Make use of JavaScript “Exception” to handle syntax error.
+* _Code Verification_ - JavaScript interpreter
+	* NPM package “eval” (https://www.npmjs.com/package/eval) 
+	* Parse string and export the function
+	* Make use of JavaScript “Exception” to handle syntax error.
 
-1. _Code Verification_ - Test Cases
-		* Front-end handler of event “click” uses a post request to send user’s code to back-end.
-		* At back-end, return values of user’s function are compared with known answers.
-		* Backend JavaScript sends verification result object to the front-end handler. The object is then used to dynamically generate test result (Accepted, Failed or Syntax Error).
+* _Code Verification_ - Test Cases
+	* Front-end handler of event “click” uses a post request to send user’s code to back-end.
+	* At back-end, return values of user’s function are compared with known answers.
+	* Backend JavaScript sends verification result object to the front-end handler. The object is then used to dynamically generate test result (Accepted, Failed or Syntax Error).
 
 
 
